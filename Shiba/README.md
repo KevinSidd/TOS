@@ -31,9 +31,9 @@ That includes removal of data related to your server and your account except Bla
 
 <h3>Developers:</h3>
 
-<li>-Kevin Siddhpura (Owner / Developer) https://github.com/kevinsidd</li>
-<li>-Daksh Namdev (Developer) https://github.com/dakshnamdev</li>
-<li>- Sanchit Jain (Developer) https://github.com/Sanchit-codes</li>
+<li>Kevin Siddhpura (Owner / Developer) https://github.com/kevinsidd</li>
+<li>Daksh Namdev (Developer) https://github.com/dakshnamdev</li>
+<li>Sanchit Jain (Developer) https://github.com/Sanchit-codes</li>
 
 ### Note:
 <li>Here "WE" is used as the Official Developers of the *Shiba Team*. Official Development Team of Discord Developer Portal, and the users having Developer Role in the Support server.</li>
