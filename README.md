@@ -1,0 +1,2 @@
+# TOS
+Related to bots
