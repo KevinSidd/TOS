@@ -40,6 +40,6 @@ That includes removal of data related to your server and your account except Bla
 <li>Here "YOU" is used as the user who is using our Bot.</li>
 <li>Here "Shiba" is used as the official Shiba bot in every clusters exists.</li>
 
-<h4>By using Shiba, you agree to the above terms of service. If you have issues, feel free to contact us in our ![Support Server](https://discord.kwin.in).<h4>
+<h4>By using Shiba, you agree to the above terms of service. If you have issues, feel free to contact us in our Support Server (https://discord.kwin.in).<h4>
 
    <h3>Team Shiba.</h3>
